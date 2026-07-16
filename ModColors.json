@@ -1,0 +1,400 @@
+{
+    "mods": [
+        {
+            "name": "Enemy HP Bar",
+            "color": "Green"
+        },
+        {
+            "name": "Satchel",
+            "color": "Green"
+        },
+        {
+            "name": "The Pain of the Path",
+            "color": "Green"
+        },
+        {
+            "name": "Vasi",
+            "color": "Green"
+        },
+        {
+            "name": "HollowPoint",
+            "color": "Yellow"
+        },
+        {
+            "name": "GodhomeGeo",
+            "color": "Green"
+        },
+        {
+            "name": "AlwaysHazardRespawn",
+            "color": "Green"
+        },
+        {
+            "name": "MarkothShield",
+            "color": "Green"
+        },
+        {
+            "name": "DanielSteginkUtils",
+            "color": "Green"
+        },
+        {
+            "name": "PlatformingQoL",
+            "color": "Yellow"
+        },
+        {
+            "name": "Dash Slash Plus",
+            "color": "Yellow"
+        },
+        {
+            "name": "HKMirror",
+            "color": "Green"
+        },
+        {
+            "name": "SFCore",
+            "color": "Green"
+        },
+        {
+            "name": "CustomizableAbilities",
+            "color": "Green"
+        },
+        {
+            "name": "Geo Remover",
+            "color": "Green"
+        },
+        {
+            "name": "Mask Remover",
+            "color": "Green"
+        },
+        {
+            "name": "Silksong Healing",
+            "color": "Yellow"
+        },
+        {
+            "name": "AbsoluteZote",
+            "color": "Green"
+        },
+        {
+            "name": "Benchwarp",
+            "color": "Green"
+        },
+        {
+            "name": "Better Void Heart",
+            "color": "Green"
+        },
+        {
+            "name": "CompassAlwaysOn",
+            "color": "Green"
+        },
+        {
+            "name": "Pure Vessel Skills",
+            "color": "Red"
+        },
+        {
+            "name": "Pure Shape",
+            "color": "Green"
+        },
+        {
+            "name": "Nosk Transformation",
+            "color": "Red"
+        },
+        {
+            "name": "Pale Court",
+            "color": "Red"
+        },
+        {
+            "name": "Custom Knight",
+            "color": "Yellow"
+        },
+        {
+            "name": "HKMP",
+            "color": "Red"
+        },
+        {
+            "name": "EasyMode",
+            "color": "Green"
+        },
+        {
+            "name": "EasySoulRefill",
+            "color": "Green"
+        },
+        {
+            "name": "Pale Court Charms",
+            "color": "Yellow"
+        },
+        {
+            "name": "Infection Bomb",
+            "color": "Green"
+        },
+        {
+            "name": "MagicUI",
+            "color": "Green"
+        },
+        {
+            "name": "MapChanger",
+            "color": "Green"
+        },
+        {
+            "name": "Pale Prince",
+            "color": "Green"
+        },
+        {
+            "name": "Random Pantheons",
+            "color": "Green"
+        },
+        {
+            "name": "QoLTeleportKit",
+            "color": "Green"
+        },
+        {
+            "name": "DebugMod",
+            "color": "Green"
+        },
+        {
+            "name": "MoreSaves",
+            "color": "Green"
+        },
+        {
+            "name": "DamageValuesRewritten",
+            "color": "Green"
+        },
+        {
+            "name": "Afterimage Plus",
+            "color": "Green"
+        },
+        {
+            "name": "Double Bosses",
+            "color": "Yellow"
+        },
+        {
+            "name": "Double Enemies",
+            "color": "Yellow"
+        },
+        {
+            "name": "DoubleRadiance",
+            "color": "Green"
+        },
+        {
+            "name": "Nightmare and Void",
+            "color": "Green"
+        },
+        {
+            "name": "Inferno King Grimm",
+            "color": "Red"
+        },
+        {
+            "name": "PersistentDivine",
+            "color": "Green"
+        },
+        {
+            "name": "Vanilla Map Mod",
+            "color": "Green"
+        },
+        {
+            "name": "ConnectionMetadataInjector",
+            "color": "Green"
+        },
+        {
+            "name": "GatheringSwarmAlwaysOn",
+            "color": "Green"
+        },
+        {
+            "name": "Menderbug's Revenge",
+            "color": "Green"
+        },
+        {
+            "name": "Hell Mod",
+            "color": "Green"
+        },
+        {    
+            "name": "FrogCore",
+            "color": "Green"
+        },
+        {    
+            "name": "ImmortalLight",
+            "color": "Green"
+        },
+        {    
+            "name": "WavLib",
+            "color": "Green"
+        },
+        {    
+            "name": "CustomPantheon",
+            "color": "Green"
+        },
+        {    
+            "name": "Osmi",
+            "color": "Red"
+        },
+        {    
+            "name": "TribeOfBattle",
+            "color": "Red"
+        },
+        {    
+            "name": "Mantis Gods",
+            "color": "Green"
+        },
+        {   
+            "name": "WeaverCore",
+            "color": "Red"
+        },
+        {   
+            "name": "More Godhome Space",
+            "color": "Red"
+        },
+        {   
+            "name": "Ancient Aspid",
+            "color": "Red"
+        },
+        {
+            "name": "Nosk God",
+            "color": "Yellow"
+        },
+        {   
+            "name": "Always Furious",
+            "color": "Yellow"
+        },
+        {   
+            "name": "Cagney Carnation",
+            "color": "Red"
+        },
+        {   
+            "name": "Corrupted Kin",
+            "color": "Red"
+        },
+        {
+            "name": "Shade Lord",
+            "color": "Red"
+        },
+        {
+            "name": "AnyZote",
+            "color": "Green"
+        },
+        {   
+            "name": "INFINITY",
+            "color": "Green"
+        },
+        {
+            "name": "Soul Sovereign",
+            "color": "Green"
+        },
+        {   
+            "name": "Soul Paladin",
+            "color": "Green"
+        },
+        {
+            "name": "Nailgod",
+            "color": "Green"
+        },
+        {
+            "name": "Brothers of Battle",
+            "color": "Green"
+        },
+        {
+            "name": "Nailmaster's Pride",
+            "color": "Yellow"
+        },
+        {
+            "name": "Pale Shadow",
+            "color": "Green"
+        },
+        {
+            "name": "Crystalblobbles",
+            "color": "Red"
+        },
+        {
+            "name": "Crystal Machinist",
+            "color": "Red"
+        },
+        { 
+            "name": "Vessel May Cry",
+            "color": "Green"
+        },
+        {
+            "name": "The H.I.V.E",
+            "color": "Green"
+        },
+        {
+            "name": "Sunset Rad",
+            "color": "Green"
+        },
+        {
+            "name": "Palette Swapper",
+            "color": "Yellow"
+        },
+        {
+            "name": "BlindRadiance",
+            "color": "Green"
+        },
+        {
+            "name": "MylaFlower",
+            "color": "Green"
+        },
+        {
+            "name": "GraphicOptions",
+            "color": "Green"
+        },
+        {
+            "name": "QoL",
+            "color": "Green"
+        },
+        {
+            "name": "RemoveLaggyObjects",
+            "color": "Green"
+        },
+        {
+            "name": "WideCamera",
+            "color": "Green"
+        },
+        {
+            "name": "DarkerTransitions",
+            "color": "Green"
+        },
+        {
+            "name": "PathOfPureVessel",
+            "color": "Green"
+        },
+        {
+            "name": "ExtraMenuBackgrounds",
+            "color": "Green"
+        },
+        {
+            "name": "Pet",
+            "color": "Green"
+        },
+        {
+            "name": "Mirrored Hallownest",
+            "color": "Yellow"
+        },
+        {
+            "name": "DeathCounter",
+            "color": "Green"
+        },
+        {
+            "name": "RadiantMenu",
+            "color": "Green"
+        },
+        {
+            "name": "AsciiCamera",
+            "color": "Red"
+        },
+        {
+            "name": "Konpanion",
+            "color": "Yellow"
+        },
+        {
+            "name": "Hall of Gods Extras",
+            "color": "Green"
+        },
+        {
+            "name": "Gatling Aspid",
+            "color": "Red"
+        },
+        {
+            "name": "ReopenCityDoor",
+            "color": "Green"
+        },
+        {
+            "name": "CharmPreset",
+            "color": "Red"
+        }
+    ]
+}
