@@ -222,11 +222,11 @@
         },
         {    
             "name": "Osmi",
-            "color": "Red"
+            "color": "Green"
         },
         {    
             "name": "TribeOfBattle",
-            "color": "Red"
+            "color": "Green"
         },
         {    
             "name": "Mantis Gods",
@@ -395,6 +395,50 @@
         {
             "name": "CharmPreset",
             "color": "Red"
+        },
+        {
+            "name": "InfiniteNotches",
+            "color": "Green"
+        },
+        {
+            "name": "AdditionalMaps",
+            "color": "Green"
+        },
+        {
+            "name": "Carefree Grimm",
+            "color": "Green"
+        },
+        {
+            "name": "Any Radiance 3.0",
+            "color": "Red"
+        },
+        {
+            "name": "PURITY",
+            "color": "Yellow"
+        },
+        {
+            "name": "Golden Godhome",
+            "color": "Yellow"
+        },
+        {
+            "name": "GrubTrain",
+            "color": "Green"
+        },
+        {
+            "name": "Cyclone Throws",
+            "color": "Red"
+        },
+        {
+            "name": "CelesteDash",
+            "color": "Yellow"
+        },
+        {
+            "name": "MetalOST",
+            "color": "Yellow"
+        },
+        {
+            "name": "Pale Shadow",
+            "color": "Green"
         }
     ]
 }
