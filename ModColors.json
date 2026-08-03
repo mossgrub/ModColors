@@ -1,382 +1,382 @@
 {
     "mods": [
         {
-            "name": "Enemy HP Bar",
+            "name": "MagicUI",
             "color": "Green",
             "port": "1.2.0.0"
         },
         {
-            "name": "Enemy HP Bar",
+            "name": "MagicUI",
             "color": "Green",
             "port": "1.2.1.0"
         },
         {
-            "name": "Enemy HP Bar",
+            "name": "MagicUI",
             "color": "Green",
             "port": "1.2.2.0"
         },
         {
-            "name": "Enemy HP Bar",
+            "name": "MagicUI",
             "color": "Green",
             "port": "1.3.0.0"
         },
         {
-            "name": "Satchel",
+            "name": "MapChanger",
             "color": "Green",
             "port": "1.2.0.0"
         },
         {
-            "name": "Satchel",
+            "name": "MapChanger",
             "color": "Green",
             "port": "1.2.1.0"
         },
         {
-            "name": "Satchel",
+            "name": "MapChanger",
             "color": "Green",
             "port": "1.2.2.0"
         },
         {
-            "name": "Satchel",
+            "name": "MapChanger",
             "color": "Green",
             "port": "1.3.0.0"
         },
         {
-            "name": "The Pain of the Path",
+            "name": "Pale Prince",
             "color": "Green",
             "port": "1.2.0.0"
         },
         {
-            "name": "The Pain of the Path",
+            "name": "Pale Prince",
             "color": "Green",
             "port": "1.2.1.0"
         },
         {
-            "name": "The Pain of the Path",
+            "name": "Pale Prince",
             "color": "Green",
             "port": "1.2.2.0"
         },
         {
-            "name": "The Pain of the Path",
+            "name": "Pale Prince",
             "color": "Green",
             "port": "1.3.0.0"
         },
         {
-            "name": "Vasi",
+            "name": "Random Pantheons",
             "color": "Green",
             "port": "1.2.0.0"
         },
         {
-            "name": "Vasi",
+            "name": "Random Pantheons",
             "color": "Green",
             "port": "1.2.1.0"
         },
         {
-            "name": "Vasi",
+            "name": "Random Pantheons",
             "color": "Green",
             "port": "1.2.2.0"
         },
         {
-            "name": "Vasi",
+            "name": "Random Pantheons",
             "color": "Green",
             "port": "1.3.0.0"
         },
         {
-            "name": "HollowPoint",
+            "name": "QoLTeleportKit",
             "color": "Green",
             "port": "1.2.0.0"
         },
         {
-            "name": "HollowPoint",
+            "name": "QoLTeleportKit",
             "color": "Green",
             "port": "1.2.1.0"
         },
         {
-            "name": "HollowPoint",
+            "name": "QoLTeleportKit",
             "color": "Green",
             "port": "1.2.2.0"
         },
         {
-            "name": "HollowPoint",
+            "name": "QoLTeleportKit",
             "color": "Green",
             "port": "1.3.0.0"
         },
         {
-            "name": "GodhomeGeo",
+            "name": "DebugMod",
             "color": "Green",
             "port": "1.2.0.0"
         },
         {
-            "name": "GodhomeGeo",
+            "name": "DebugMod",
             "color": "Green",
             "port": "1.2.1.0"
         },
         {
-            "name": "GodhomeGeo",
+            "name": "DebugMod",
             "color": "Green",
             "port": "1.2.2.0"
         },
         {
-            "name": "GodhomeGeo",
+            "name": "DebugMod",
             "color": "Green",
             "port": "1.3.0.0"
         },
         {
-            "name": "AlwaysHazardRespawn",
+            "name": "MoreSaves",
             "color": "Green",
             "port": "1.2.0.0"
         },
         {
-            "name": "AlwaysHazardRespawn",
+            "name": "MoreSaves",
             "color": "Green",
             "port": "1.2.1.0"
         },
         {
-            "name": "AlwaysHazardRespawn",
+            "name": "MoreSaves",
             "color": "Green",
             "port": "1.2.2.0"
         },
         {
-            "name": "AlwaysHazardRespawn",
+            "name": "MoreSaves",
             "color": "Green",
             "port": "1.3.0.0"
         },
         {
-            "name": "MarkothShield",
+            "name": "DamageValuesRewritten",
             "color": "Green",
             "port": "1.2.0.0"
         },
         {
-            "name": "MarkothShield",
+            "name": "DamageValuesRewritten",
             "color": "Green",
             "port": "1.2.1.0"
         },
         {
-            "name": "MarkothShield",
+            "name": "DamageValuesRewritten",
             "color": "Green",
             "port": "1.2.2.0"
         },
         {
-            "name": "MarkothShield",
+            "name": "DamageValuesRewritten",
             "color": "Green",
             "port": "1.3.0.0"
         },
         {
-            "name": "DanielSteginkUtils",
+            "name": "Afterimage Plus",
             "color": "Green",
             "port": "1.2.0.0"
         },
         {
-            "name": "DanielSteginkUtils",
+            "name": "Afterimage Plus",
             "color": "Green",
             "port": "1.2.1.0"
         },
         {
-            "name": "DanielSteginkUtils",
+            "name": "Afterimage Plus",
             "color": "Green",
             "port": "1.2.2.0"
         },
         {
-            "name": "DanielSteginkUtils",
+            "name": "Afterimage Plus",
             "color": "Green",
             "port": "1.3.0.0"
         },
         {
-            "name": "PlatformingQoL",
+            "name": "Double Bosses",
             "color": "Yellow",
             "port": "1.2.0.0"
         },
         {
-            "name": "PlatformingQoL",
+            "name": "Double Bosses",
             "color": "Yellow",
             "port": "1.2.1.0"
         },
         {
-            "name": "PlatformingQoL",
+            "name": "Double Bosses",
             "color": "Yellow",
             "port": "1.2.2.0"
         },
         {
-            "name": "PlatformingQoL",
-            "color": "Yellow",
-            "port": "1.3.0.0"
-        },
-        {
-            "name": "Dash Slash Plus",
-            "color": "Green",
-            "port": "1.2.0.0"
-        },
-        {
-            "name": "Dash Slash Plus",
-            "color": "Green",
-            "port": "1.2.1.0"
-        },
-        {
-            "name": "Dash Slash Plus",
-            "color": "Green",
-            "port": "1.2.2.0"
-        },
-        {
-            "name": "Dash Slash Plus",
+            "name": "Double Bosses",
             "color": "Green",
             "port": "1.3.0.0"
         },
         {
-            "name": "HKMirror",
-            "color": "Green",
-            "port": "1.2.0.0"
-        },
-        {
-            "name": "HKMirror",
-            "color": "Green",
-            "port": "1.2.1.0"
-        },
-        {
-            "name": "HKMirror",
-            "color": "Green",
-            "port": "1.2.2.0"
-        },
-        {
-            "name": "HKMirror",
-            "color": "Green",
-            "port": "1.3.0.0"
-        },
-        {
-            "name": "SFCore",
-            "color": "Green",
-            "port": "1.2.0.0"
-        },
-        {
-            "name": "SFCore",
-            "color": "Green",
-            "port": "1.2.1.0"
-        },
-        {
-            "name": "SFCore",
-            "color": "Green",
-            "port": "1.2.2.0"
-        },
-        {
-            "name": "SFCore",
-            "color": "Green",
-            "port": "1.3.0.0"
-        },
-        {
-            "name": "CustomizableAbilities",
-            "color": "Green",
-            "port": "1.2.0.0"
-        },
-        {
-            "name": "CustomizableAbilities",
-            "color": "Green",
-            "port": "1.2.1.0"
-        },
-        {
-            "name": "CustomizableAbilities",
-            "color": "Green",
-            "port": "1.2.2.0"
-        },
-        {
-            "name": "CustomizableAbilities",
-            "color": "Green",
-            "port": "1.3.0.0"
-        },
-        {
-            "name": "Geo Remover",
-            "color": "Green",
-            "port": "1.2.0.0"
-        },
-        {
-            "name": "Geo Remover",
-            "color": "Green",
-            "port": "1.2.1.0"
-        },
-        {
-            "name": "Geo Remover",
-            "color": "Green",
-            "port": "1.2.2.0"
-        },
-        {
-            "name": "Geo Remover",
-            "color": "Green",
-            "port": "1.3.0.0"
-        },
-        {
-            "name": "Mask Remover",
-            "color": "Green",
-            "port": "1.2.0.0"
-        },
-        {
-            "name": "Mask Remover",
-            "color": "Green",
-            "port": "1.2.1.0"
-        },
-        {
-            "name": "Mask Remover",
-            "color": "Green",
-            "port": "1.2.2.0"
-        },
-        {
-            "name": "Mask Remover",
-            "color": "Green",
-            "port": "1.3.0.0"
-        },
-        {
-            "name": "Silksong Healing",
+            "name": "Double Enemies",
             "color": "Yellow",
             "port": "1.2.0.0"
         },
         {
-            "name": "Silksong Healing",
-            "color": "Green",
+            "name": "Double Enemies",
+            "color": "Yellow",
             "port": "1.2.1.0"
         },
         {
-            "name": "Silksong Healing",
-            "color": "Green",
+            "name": "Double Enemies",
+            "color": "Yellow",
             "port": "1.2.2.0"
         },
         {
-            "name": "Silksong Healing",
+            "name": "Double Enemies",
             "color": "Green",
             "port": "1.3.0.0"
         },
         {
-            "name": "AbsoluteZote",
+            "name": "DoubleRadiance",
             "color": "Green",
             "port": "1.2.0.0"
         },
         {
-            "name": "AbsoluteZote",
+            "name": "DoubleRadiance",
             "color": "Green",
             "port": "1.2.1.0"
         },
         {
-            "name": "AbsoluteZote",
+            "name": "DoubleRadiance",
             "color": "Green",
             "port": "1.2.2.0"
         },
         {
-            "name": "AbsoluteZote",
+            "name": "DoubleRadiance",
             "color": "Green",
             "port": "1.3.0.0"
         },
         {
-            "name": "Benchwarp",
+            "name": "Nightmare and Void",
             "color": "Green",
             "port": "1.2.0.0"
         },
         {
-            "name": "Benchwarp",
+            "name": "Nightmare and Void",
             "color": "Green",
             "port": "1.2.1.0"
         },
         {
-            "name": "Benchwarp",
+            "name": "Nightmare and Void",
             "color": "Green",
             "port": "1.2.2.0"
         },
         {
-            "name": "Benchwarp",
+            "name": "Nightmare and Void",
+            "color": "Green",
+            "port": "1.3.0.0"
+        },
+        {
+            "name": "Inferno King Grimm",
+            "color": "Red",
+            "port": "1.2.0.0"
+        },
+        {
+            "name": "Inferno King Grimm",
+            "color": "Red",
+            "port": "1.2.1.0"
+        },
+        {
+            "name": "Inferno King Grimm",
+            "color": "Red",
+            "port": "1.2.2.0"
+        },
+        {
+            "name": "Inferno King Grimm",
+            "color": "Red",
+            "port": "1.3.0.0"
+        },
+        {
+            "name": "PersistentDivine",
+            "color": "Green",
+            "port": "1.2.0.0"
+        },
+        {
+            "name": "PersistentDivine",
+            "color": "Green",
+            "port": "1.2.1.0"
+        },
+        {
+            "name": "PersistentDivine",
+            "color": "Green",
+            "port": "1.2.2.0"
+        },
+        {
+            "name": "PersistentDivine",
+            "color": "Green",
+            "port": "1.3.0.0"
+        },
+        {
+            "name": "Vanilla Map Mod",
+            "color": "Green",
+            "port": "1.2.0.0"
+        },
+        {
+            "name": "Vanilla Map Mod",
+            "color": "Green",
+            "port": "1.2.1.0"
+        },
+        {
+            "name": "Vanilla Map Mod",
+            "color": "Green",
+            "port": "1.2.2.0"
+        },
+        {
+            "name": "Vanilla Map Mod",
+            "color": "Green",
+            "port": "1.3.0.0"
+        },
+        {
+            "name": "ConnectionMetadataInjector",
+            "color": "Green",
+            "port": "1.2.0.0"
+        },
+        {
+            "name": "ConnectionMetadataInjector",
+            "color": "Green",
+            "port": "1.2.1.0"
+        },
+        {
+            "name": "ConnectionMetadataInjector",
+            "color": "Green",
+            "port": "1.2.2.0"
+        },
+        {
+            "name": "ConnectionMetadataInjector",
+            "color": "Green",
+            "port": "1.3.0.0"
+        },
+        {
+            "name": "GatheringSwarmAlwaysOn",
+            "color": "Green",
+            "port": "1.2.0.0"
+        },
+        {
+            "name": "GatheringSwarmAlwaysOn",
+            "color": "Green",
+            "port": "1.2.1.0"
+        },
+        {
+            "name": "GatheringSwarmAlwaysOn",
+            "color": "Green",
+            "port": "1.2.2.0"
+        },
+        {
+            "name": "GatheringSwarmAlwaysOn",
+            "color": "Green",
+            "port": "1.3.0.0"
+        },
+        {
+            "name": "Menderbug's Revenge",
+            "color": "Green",
+            "port": "1.2.0.0"
+        },
+        {
+            "name": "Menderbug's Revenge",
+            "color": "Green",
+            "port": "1.2.1.0"
+        },
+        {
+            "name": "Menderbug's Revenge",
+            "color": "Green",
+            "port": "1.2.2.0"
+        },
+        {
+            "name": "Menderbug's Revenge",
             "color": "Green",
             "port": "1.3.0.0"
         },
@@ -602,1602 +602,1602 @@
         },
         {
             "name": "Infection Bomb",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {
             "name": "Infection Bomb",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {
             "name": "Infection Bomb",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {
             "name": "Infection Bomb",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "MagicUI",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {
             "name": "MagicUI",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {
             "name": "MagicUI",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {
             "name": "MagicUI",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "MapChanger",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {
             "name": "MapChanger",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {
             "name": "MapChanger",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {
             "name": "MapChanger",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "Pale Prince",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {
             "name": "Pale Prince",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {
             "name": "Pale Prince",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {
             "name": "Pale Prince",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "Random Pantheons",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {
             "name": "Random Pantheons",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {
             "name": "Random Pantheons",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {
             "name": "Random Pantheons",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "QoLTeleportKit",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {
             "name": "QoLTeleportKit",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {
             "name": "QoLTeleportKit",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {
             "name": "QoLTeleportKit",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "DebugMod",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {
             "name": "DebugMod",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {
             "name": "DebugMod",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {
             "name": "DebugMod",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "MoreSaves",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {
             "name": "MoreSaves",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {
             "name": "MoreSaves",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {
             "name": "MoreSaves",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "DamageValuesRewritten",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {
             "name": "DamageValuesRewritten",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {
             "name": "DamageValuesRewritten",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {
             "name": "DamageValuesRewritten",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "Afterimage Plus",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {
             "name": "Afterimage Plus",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {
             "name": "Afterimage Plus",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {
             "name": "Afterimage Plus",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "Double Bosses",
-            "color": "Yellow"
+            "color": "Yellow",
             "port": "1.2.0.0"
         },
         {
             "name": "Double Bosses",
-            "color": "Yellow"
+            "color": "Yellow",
             "port": "1.2.1.0"
         },
         {
             "name": "Double Bosses",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {
             "name": "Double Bosses",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "Double Enemies",
-            "color": "Yellow"
+            "color": "Yellow",
             "port": "1.2.0.0"
         },
         {
             "name": "Double Enemies",
-            "color": "Yellow"
+            "color": "Yellow",
             "port": "1.2.1.0"
         },
         {
             "name": "Double Enemies",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {
             "name": "Double Enemies",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "DoubleRadiance",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {
             "name": "DoubleRadiance",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {
             "name": "DoubleRadiance",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {
             "name": "DoubleRadiance",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "Nightmare and Void",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {
             "name": "Nightmare and Void",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {
             "name": "Nightmare and Void",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {
             "name": "Nightmare and Void",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "Inferno King Grimm",
-            "color": "Red"
+            "color": "Red",
             "port": "1.2.0.0"
         },
         {
             "name": "Inferno King Grimm",
-            "color": "Red"
+            "color": "Red",
             "port": "1.2.1.0"
         },
         {
             "name": "Inferno King Grimm",
-            "color": "Red"
+            "color": "Red",
             "port": "1.2.2.0"
         },
         {
             "name": "Inferno King Grimm",
-            "color": "Red"
+            "color": "Red",
             "port": "1.3.0.0"
         },
         {
             "name": "PersistentDivine",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {
             "name": "PersistentDivine",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {
             "name": "PersistentDivine",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {
             "name": "PersistentDivine",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "Vanilla Map Mod",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {
             "name": "Vanilla Map Mod",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {
             "name": "Vanilla Map Mod",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {
             "name": "Vanilla Map Mod",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "ConnectionMetadataInjector",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {
             "name": "ConnectionMetadataInjector",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {
             "name": "ConnectionMetadataInjector",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {
             "name": "ConnectionMetadataInjector",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "GatheringSwarmAlwaysOn",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {
             "name": "GatheringSwarmAlwaysOn",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {
             "name": "GatheringSwarmAlwaysOn",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {
             "name": "GatheringSwarmAlwaysOn",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "Menderbug's Revenge",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {
             "name": "Menderbug's Revenge",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {
             "name": "Menderbug's Revenge",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {
             "name": "Menderbug's Revenge",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "Hell Mod",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {
             "name": "Hell Mod",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {
             "name": "Hell Mod",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {
             "name": "Hell Mod",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {    
             "name": "FrogCore",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {    
             "name": "FrogCore",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {    
             "name": "FrogCore",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {    
             "name": "FrogCore",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {    
             "name": "ImmortalLight",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {    
             "name": "ImmortalLight",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {    
             "name": "ImmortalLight",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {    
             "name": "ImmortalLight",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {    
             "name": "WavLib",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {    
             "name": "WavLib",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {    
             "name": "WavLib",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {    
             "name": "WavLib",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {    
             "name": "CustomPantheon",
-            "color": "Yellow"
+            "color": "Yellow",
             "port": "1.2.0.0"
         },
         {    
             "name": "CustomPantheon",
-            "color": "Yellow"
+            "color": "Yellow",
             "port": "1.2.1.0"
         },
         {    
             "name": "CustomPantheon",
-            "color": "Yellow"
+            "color": "Yellow",
             "port": "1.2.2.0"
         },
         {    
             "name": "CustomPantheon",
-            "color": "Yellow"
+            "color": "Yellow",
             "port": "1.3.0.0"
         },
         {    
             "name": "Osmi",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {    
             "name": "Osmi",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {    
             "name": "Osmi",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {    
             "name": "Osmi",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {    
             "name": "TribeOfBattle",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {    
             "name": "TribeOfBattle",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {    
             "name": "TribeOfBattle",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {    
             "name": "TribeOfBattle",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {    
             "name": "Mantis Gods",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {    
             "name": "Mantis Gods",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {    
             "name": "Mantis Gods",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {    
             "name": "Mantis Gods",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {   
             "name": "WeaverCore",
-            "color": "Red"
+            "color": "Red",
             "port": "1.2.0.0"
         },
         {   
             "name": "WeaverCore",
-            "color": "Red"
+            "color": "Red",
             "port": "1.2.1.0"
         },
         {   
             "name": "WeaverCore",
-            "color": "Red"
+            "color": "Red",
             "port": "1.2.2.0"
         },
         {   
             "name": "WeaverCore",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {   
             "name": "More Godhome Space",
-            "color": "Red"
+            "color": "Red",
             "port": "1.2.0.0"
         },
         {   
             "name": "More Godhome Space",
-            "color": "Red"
+            "color": "Red",
             "port": "1.2.1.0"
         },
         {   
             "name": "More Godhome Space",
-            "color": "Red"
+            "color": "Red",
             "port": "1.2.2.0"
         },
         {   
             "name": "More Godhome Space",
-            "color": "Red"
+            "color": "Red",
             "port": "1.3.0.0"
         },
         {   
             "name": "Ancient Aspid",
-            "color": "Red"
+            "color": "Red",
             "port": "1.2.0.0"
         },
         {   
             "name": "Ancient Aspid",
-            "color": "Red"
+            "color": "Red",
             "port": "1.2.1.0"
         },
         {   
             "name": "Ancient Aspid",
-            "color": "Red"
+            "color": "Red",
             "port": "1.2.2.0"
         },
         {   
             "name": "Ancient Aspid",
-            "color": "Red"
+            "color": "Red",
             "port": "1.3.0.0"
         },
         {
             "name": "Nosk God",
-            "color": "Red"
+            "color": "Red",
             "port": "1.2.0.0"
         },
         {
             "name": "Nosk God",
-            "color": "Red"
+            "color": "Red",
             "port": "1.2.1.0"
         },
         {
             "name": "Nosk God",
-            "color": "Red"
+            "color": "Red",
             "port": "1.2.2.0"
         },
         {
             "name": "Nosk God",
-            "color": "Red"
+            "color": "Red",
             "port": "1.3.0.0"
         },
         {   
             "name": "Always Furious",
-            "color": "Yellow"
+            "color": "Yellow",
             "port": "1.2.0.0"
         },
         {   
             "name": "Always Furious",
-            "color": "Yellow"
+            "color": "Yellow",
             "port": "1.2.1.0"
         },
         {   
             "name": "Always Furious",
-            "color": "Yellow"
+            "color": "Yellow",
             "port": "1.2.2.0"
         },
         {   
             "name": "Always Furious",
-            "color": "Yellow"
+            "color": "Yellow",
             "port": "1.3.0.0"
         },
         {   
             "name": "Cagney Carnation",
-            "color": "Red"
+            "color": "Red",
             "port" : "1.2.0.0"
         },
         {   
             "name": "Cagney Carnation",
-            "color": "Red"
+            "color": "Red",
             "port" : "1.2.1.0"
         },
         {   
             "name": "Cagney Carnation",
-            "color": "Red"
+            "color": "Red",
             "port" : "1.2.2.0"
         },
         {   
             "name": "Cagney Carnation",
-            "color": "Red"
+            "color": "Red",
             "port" : "1.3.0.0"
         },
         {   
             "name": "Corrupted Kin",
-            "color": "Red"
+            "color": "Red",
             "port": "1.2.0.0"
         },
         {   
             "name": "Corrupted Kin",
-            "color": "Red"
+            "color": "Red",
             "port": "1.2.1.0"
         },
         {   
             "name": "Corrupted Kin",
-            "color": "Red"
+            "color": "Red",
             "port": "1.2.2.0"
         },
         {   
             "name": "Corrupted Kin",
-            "color": "Red"
+            "color": "Red",
             "port": "1.3.0.0"
         },
         {
             "name": "Shade Lord",
-            "color": "Red"
+            "color": "Red",
             "port": "1.2.0.0"
         },
         {
             "name": "Shade Lord",
-            "color": "Red"
+            "color": "Red",
             "port": "1.2.1.0"
         },
         {
             "name": "Shade Lord",
-            "color": "Red"
+            "color": "Red",
             "port": "1.2.2.0"
         },
         {
             "name": "Shade Lord",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "AnyZote",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {
             "name": "AnyZote",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {
             "name": "AnyZote",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {
             "name": "AnyZote",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {   
             "name": "INFINITY",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {   
             "name": "INFINITY",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {   
             "name": "INFINITY",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {   
             "name": "INFINITY",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "Soul Sovereign",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {
             "name": "Soul Sovereign",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {
             "name": "Soul Sovereign",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {
             "name": "Soul Sovereign",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {   
             "name": "Soul Paladin",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {   
             "name": "Soul Paladin",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {   
             "name": "Soul Paladin",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {   
             "name": "Soul Paladin",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "Nailgod",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {
             "name": "Nailgod",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {
             "name": "Nailgod",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {
             "name": "Nailgod",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "Brothers of Battle",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {
             "name": "Brothers of Battle",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {
             "name": "Brothers of Battle",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {
             "name": "Brothers of Battle",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "Nailmaster's Pride",
-            "color": "Yellow"
+            "color": "Yellow",
             "port": "1.2.0.0"
         },
         {
             "name": "Nailmaster's Pride",
-            "color": "Yellow"
+            "color": "Yellow",
             "port": "1.2.1.0"
         },
         {
             "name": "Nailmaster's Pride",
-            "color": "Yellow"
+            "color": "Yellow",
             "port": "1.2.2.0"
         },
         {
             "name": "Nailmaster's Pride",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "Pale Shadow",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {
             "name": "Pale Shadow",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {
             "name": "Pale Shadow",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {
             "name": "Pale Shadow",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "Crystalblobbles",
-            "color": "Red"
+            "color": "Red",
             "port": "1.2.0.0"
         },
         {
             "name": "Crystalblobbles",
-            "color": "Red"
+            "color": "Red",
             "port": "1.2.1.0"
         },
         {
             "name": "Crystalblobbles",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {
             "name": "Crystalblobbles",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "Crystal Machinist",
-            "color": "Red"
+            "color": "Red",
             "port": "1.2.0.0"
         },
         {
             "name": "Crystal Machinist",
-            "color": "Red"
+            "color": "Red",
             "port": "1.2.1.0"
         },
         {
             "name": "Crystal Machinist",
-            "color": "Red"
+            "color": "Red",
             "port": "1.2.2.0"
         },
         {
             "name": "Crystal Machinist",
-            "color": "Red"
+            "color": "Red",
             "port": "1.3.0.0"
         },
         { 
             "name": "Vessel May Cry",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         { 
             "name": "Vessel May Cry",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         { 
             "name": "Vessel May Cry",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         { 
             "name": "Vessel May Cry",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "The H.I.V.E",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {
             "name": "The H.I.V.E",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {
             "name": "The H.I.V.E",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {
             "name": "The H.I.V.E",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "Sunset Rad",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {
             "name": "Sunset Rad",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {
             "name": "Sunset Rad",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {
             "name": "Sunset Rad",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "Palette Swapper",
-            "color": "Yellow"
+            "color": "Yellow",
             "port": "1.2.0.0"
         },
         {
             "name": "Palette Swapper",
-            "color": "Yellow"
+            "color": "Yellow",
             "port": "1.2.1.0"
         },
         {
             "name": "Palette Swapper",
-            "color": "Yellow"
+            "color": "Yellow",
             "port": "1.2.2.0"
         },
         {
             "name": "Palette Swapper",
-            "color": "Yellow"
+            "color": "Yellow",
             "port": "1.3.0.0"
         },
         {
             "name": "BlindRadiance",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {
             "name": "BlindRadiance",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {
             "name": "BlindRadiance",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {
             "name": "BlindRadiance",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "MylaFlower",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {
             "name": "MylaFlower",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {
             "name": "MylaFlower",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {
             "name": "MylaFlower",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "GraphicOptions",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {
             "name": "GraphicOptions",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {
             "name": "GraphicOptions",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {
             "name": "GraphicOptions",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "QoL",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {
             "name": "QoL",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {
             "name": "QoL",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {
             "name": "QoL",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "RemoveLaggyObjects",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {
             "name": "RemoveLaggyObjects",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {
             "name": "RemoveLaggyObjects",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {
             "name": "RemoveLaggyObjects",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "WideCamera",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {
             "name": "WideCamera",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {
             "name": "WideCamera",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {
             "name": "WideCamera",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "DarkerTransitions",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {
             "name": "DarkerTransitions",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {
             "name": "DarkerTransitions",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {
             "name": "DarkerTransitions",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "PathOfPureVessel",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {
             "name": "PathOfPureVessel",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {
             "name": "PathOfPureVessel",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {
             "name": "PathOfPureVessel",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "ExtraMenuBackgrounds",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {
             "name": "ExtraMenuBackgrounds",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {
             "name": "ExtraMenuBackgrounds",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {
             "name": "ExtraMenuBackgrounds",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "Pet",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {
             "name": "Pet",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {
             "name": "Pet",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {
             "name": "Pet",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "Mirrored Hallownest",
-            "color": "Yellow"
+            "color": "Yellow",
             "port": "1.2.0.0"
         },
         {
             "name": "Mirrored Hallownest",
-            "color": "Yellow"
+            "color": "Yellow",
             "port": "1.2.1.0"
         },
         {
             "name": "Mirrored Hallownest",
-            "color": "Yellow"
+            "color": "Yellow",
             "port": "1.2.2.0"
         },
         {
             "name": "Mirrored Hallownest",
-            "color": "Yellow"
+            "color": "Yellow",
             "port": "1.3.0.0"
         },
         {
             "name": "DeathCounter",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {
             "name": "DeathCounter",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {
             "name": "DeathCounter",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {
             "name": "DeathCounter",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "RadiantMenu",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {
             "name": "RadiantMenu",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {
             "name": "RadiantMenu",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {
             "name": "RadiantMenu",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "AsciiCamera",
-            "color": "Red"
+            "color": "Red",
             "port": "1.2.0.0"
         },
         {
             "name": "AsciiCamera",
-            "color": "Red"
+            "color": "Red",
             "port": "1.2.1.0"
         },
         {
             "name": "AsciiCamera",
-            "color": "Red"
+            "color": "Red",
             "port": "1.2.2.0"
         },
         {
             "name": "AsciiCamera",
-            "color": "Red"
+            "color": "Red",
             "port": "1.3.0.0"
         },
         {
             "name": "Konpanion",
-            "color": "Yellow"
+            "color": "Yellow",
             "port": "1.2.0.0"
         },
         {
             "name": "Konpanion",
-            "color": "Yellow"
+            "color": "Yellow",
             "port": "1.2.1.0"
         },
         {
             "name": "Konpanion",
-            "color": "Yellow"
+            "color": "Yellow",
             "port": "1.2.2.0"
         },
         {
             "name": "Konpanion",
-            "color": "Yellow"
+            "color": "Yellow",
             "port": "1.3.0.0"
         },
         {
             "name": "Hall of Gods Extras",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {
             "name": "Hall of Gods Extras",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {
             "name": "Hall of Gods Extras",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {
             "name": "Hall of Gods Extras",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "Gatling Aspid",
-            "color": "Red"
+            "color": "Red",
             "port": "1.2.0.0"
         },
         {
             "name": "Gatling Aspid",
-            "color": "Red"
+            "color": "Red",
             "port": "1.2.1.0"
         },
         {
             "name": "Gatling Aspid",
-            "color": "Red"
+            "color": "Red",
             "port": "1.2.2.0"
         },
         {
             "name": "Gatling Aspid",
-            "color": "Red"
+            "color": "Red",
             "port": "1.3.0.0"
         },
         {
             "name": "ReopenCityDoor",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {
             "name": "ReopenCityDoor",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {
             "name": "ReopenCityDoor",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {
             "name": "ReopenCityDoor",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "CharmPreset",
-            "color": "Red"
+            "color": "Red",
             "port": "1.2.0.0"
         },
         {
             "name": "CharmPreset",
-            "color": "Red"
+            "color": "Red",
             "port": "1.2.1.0"
         },
         {
             "name": "CharmPreset",
-            "color": "Red"
+            "color": "Red",
             "port": "1.2.2.0"
         },
         {
             "name": "CharmPreset",
-            "color": "Red"
+            "color": "Red",
             "port": "1.3.0.0"
         },
         {
             "name": "InfiniteNotches",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {
             "name": "InfiniteNotches",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {
             "name": "InfiniteNotches",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {
             "name": "InfiniteNotches",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "AdditionalMaps",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {
             "name": "AdditionalMaps",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {
             "name": "AdditionalMaps",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {
             "name": "AdditionalMaps",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "Carefree Grimm",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {
             "name": "Carefree Grimm",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {
             "name": "Carefree Grimm",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {
             "name": "Carefree Grimm",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "Any Radiance 3.0",
-            "color": "Red"
+            "color": "Red",
             "port": "1.2.0.0"
         },
         {
             "name": "Any Radiance 3.0",
-            "color": "Red"
+            "color": "Red",
             "port": "1.2.1.0"
         },
         {
             "name": "Any Radiance 3.0",
-            "color": "Red"
+            "color": "Red",
             "port": "1.2.2.0"
         },
         {
             "name": "Any Radiance 3.0",
-            "color": "Red"
+            "color": "Red",
             "port": "1.3.0.0"
         },
         {
             "name": "PURITY",
-            "color": "Yellow"
+            "color": "Yellow",
             "port": "1.2.0.0"
         },
         {
             "name": "PURITY",
-            "color": "Yellow"
+            "color": "Yellow",
             "port": "1.2.1.0"
         },
         {
             "name": "PURITY",
-            "color": "Yellow"
+            "color": "Yellow",
             "port": "1.2.2.0"
         },
         {
             "name": "PURITY",
-            "color": "Yellow"
+            "color": "Yellow",
             "port": "1.3.0.0"
         },
         {
             "name": "Golden Godhome",
-            "color": "Yellow"
+            "color": "Yellow",
             "port": "1.2.0.0"
         },
         {
             "name": "Golden Godhome",
-            "color": "Yellow"
+            "color": "Yellow",
             "port": "1.2.1.0"
         },
         {
             "name": "Golden Godhome",
-            "color": "Yellow"
+            "color": "Yellow",
             "port": "1.2.2.0"
         },
         {
             "name": "Golden Godhome",
-            "color": "Yellow"
+            "color": "Yellow",
             "port": "1.3.0.0"
         },
         {
             "name": "GrubTrain",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {
             "name": "GrubTrain",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {
             "name": "GrubTrain",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {
             "name": "GrubTrain",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "Cyclone Throws",
-            "color": "Red"
+            "color": "Red",
             "port": "1.2.0.0"
         },
         {
             "name": "Cyclone Throws",
-            "color": "Red"
+            "color": "Red",
             "port": "1.2.1.0"
         },
         {
             "name": "Cyclone Throws",
-            "color": "Red"
+            "color": "Red",
             "port": "1.2.2.0"
         },
         {
             "name": "Cyclone Throws",
-            "color": "Red"
+            "color": "Red",
             "port": "1.3.0.0"
         },
         {
             "name": "CelesteDash",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {
             "name": "CelesteDash",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {
             "name": "CelesteDash",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {
             "name": "CelesteDash",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         },
         {
             "name": "MetalOST",
-            "color": "Red"
+            "color": "Red",
             "port": "1.2.0.0"
         },
         {
             "name": "MetalOST",
-            "color": "Red"
+            "color": "Red",
             "port": "1.2.1.0"
         },
         {
             "name": "MetalOST",
-            "color": "Red"
+            "color": "Red",
             "port": "1.2.2.0"
         },
         {
             "name": "MetalOST",
-            "color": "Red"
+            "color": "Red",
             "port": "1.3.0.0"
         },
         {
             "name": "Pale Shadow",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.0.0"
         },
         {
             "name": "Pale Shadow",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.1.0"
         },
         {
             "name": "Pale Shadow",
-            "color": "Green"
+            "color": "Green",
             "port": "1.2.2.0"
         },
         {
             "name": "Pale Shadow",
-            "color": "Green"
+            "color": "Green",
             "port": "1.3.0.0"
         }
     ]
