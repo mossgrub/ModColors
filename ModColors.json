@@ -152,7 +152,7 @@
                  },
                  {
                      "name":  "Aspid Queen",
-                     "color":  "Green",
+                     "color":  "Red",
                      "port":  "1.3.0.0"
                  },
                  {
@@ -232,7 +232,7 @@
                  },
                  {
                      "name":  "Biblically Accurate Lasers",
-                     "color":  "Green",
+                     "color":  "Red",
                      "port":  "1.3.0.0"
                  },
                  {
@@ -562,12 +562,12 @@
                  },
                  {
                      "name":  "Crystal Machinist",
-                     "color":  "Red",
+                     "color":  "Green",
                      "port":  "1.3.0.0"
                  },
                  {
                      "name":  "Crystalblobbles",
-                     "color":  "Red",
+                     "color":  "Green",
                      "port":  "1.2.0.0"
                  },
                  {
@@ -577,12 +577,12 @@
                  },
                  {
                      "name":  "Crystalblobbles",
-                     "color":  "Green",
+                     "color":  "Red",
                      "port":  "1.2.2.0"
                  },
                  {
                      "name":  "Crystalblobbles",
-                     "color":  "Green",
+                     "color":  "Red",
                      "port":  "1.3.0.0"
                  },
                  {
@@ -757,17 +757,17 @@
                  },
                  {
                      "name":  "Dead Cells Bosses",
-                     "color":  "Green",
+                     "color":  "Red",
                      "port":  "1.3.0.0"
                  },
                  {
                      "name":  "Dead Cells The Queen",
-                     "color":  "Green",
+                     "color":  "Red",
                      "port":  "1.3.0.0"
                  },
                  {
                      "name":  "Dead Cells Time Keeper",
-                     "color":  "Green",
+                     "color":  "Red",
                      "port":  "1.3.0.0"
                  },
                  {
@@ -842,7 +842,7 @@
                  },
                  {
                      "name":  "DoodleBosses",
-                     "color":  "Green",
+                     "color":  "Red",
                      "port":  "1.3.0.0"
                  },
                  {
@@ -942,7 +942,7 @@
                  },
                  {
                      "name":  "Dream Warpers",
-                     "color":  "Green",
+                     "color":  "Red",
                      "port":  "1.3.0.0"
                  },
                  {
@@ -1097,7 +1097,7 @@
                  },
                  {
                      "name":  "Fake Peppino",
-                     "color":  "Green",
+                     "color":  "Red",
                      "port":  "1.3.0.0"
                  },
                  {
@@ -1127,7 +1127,7 @@
                  },
                  {
                      "name":  "Fennel",
-                     "color":  "Green",
+                     "color":  "Red",
                      "port":  "1.3.0.0"
                  },
                  {
@@ -1247,7 +1247,7 @@
                  },
                  {
                      "name":  "Galien Illusionist",
-                     "color":  "Green",
+                     "color":  "Red",
                      "port":  "1.3.0.0"
                  },
                  {
@@ -1377,12 +1377,12 @@
                  },
                  {
                      "name":  "Gorb Plus",
-                     "color":  "Green",
+                     "color":  "Red",
                      "port":  "1.3.0.0"
                  },
                  {
                      "name":  "GPZ Precepts",
-                     "color":  "Green",
+                     "color":  "Red",
                      "port":  "1.3.0.0"
                  },
                  {
@@ -1417,7 +1417,7 @@
                  },
                  {
                      "name":  "GreatChampion",
-                     "color":  "Green",
+                     "color":  "Red",
                      "port":  "1.3.0.0"
                  },
                  {
@@ -1467,12 +1467,12 @@
                  },
                  {
                      "name":  "Hallownest-Vocalized",
-                     "color":  "Green",
+                     "color":  "Red",
                      "port":  "1.3.0.0"
                  },
                  {
                      "name":  "Hallownest-Vocalized-AudioLoader",
-                     "color":  "Green",
+                     "color":  "Red",
                      "port":  "1.3.0.0"
                  },
                  {
@@ -1677,7 +1677,7 @@
                  },
                  {
                      "name":  "HuKing",
-                     "color":  "Green",
+                     "color":  "Red",
                      "port":  "1.3.0.0"
                  },
                  {
@@ -1717,7 +1717,7 @@
                  },
                  {
                      "name":  "Infinite AbsRad Phases",
-                     "color":  "Green",
+                     "color":  "Red",
                      "port":  "1.3.0.0"
                  },
                  {
@@ -2142,7 +2142,7 @@
                  },
                  {
                      "name":  "MossBeast",
-                     "color":  "Green",
+                     "color":  "Red",
                      "port":  "1.3.0.0"
                  },
                  {
@@ -2327,7 +2327,7 @@
                  },
                  {
                      "name":  "Omega Radiance",
-                     "color":  "Green",
+                     "color":  "Red",
                      "port":  "1.3.0.0"
                  },
                  {
@@ -2422,7 +2422,7 @@
                  },
                  {
                      "name":  "PathOfPureVessel",
-                     "color":  "Green",
+                     "color":  "Red",
                      "port":  "1.3.0.0"
                  },
                  {
@@ -2497,7 +2497,7 @@
                  },
                  {
                      "name":  "Propeller Knight",
-                     "color":  "Green",
+                     "color":  "Red",
                      "port":  "1.3.0.0"
                  },
                  {
@@ -2537,7 +2537,7 @@
                  },
                  {
                      "name":  "PURITY",
-                     "color":  "Yellow",
+                     "color":  "Green",
                      "port":  "1.3.0.0"
                  },
                  {
@@ -2557,7 +2557,7 @@
                  },
                  {
                      "name":  "Quasar Radiance",
-                     "color":  "Green",
+                     "color":  "Red",
                      "port":  "1.3.0.0"
                  },
                  {
@@ -2587,7 +2587,7 @@
                  },
                  {
                      "name":  "RadianceExtras",
-                     "color":  "Green",
+                     "color":  "Red",
                      "port":  "1.3.0.0"
                  },
                  {
@@ -3047,7 +3047,7 @@
                  },
                  {
                      "name":  "Soul Sovereign",
-                     "color":  "Green",
+                     "color":  "Red",
                      "port":  "1.3.0.0"
                  },
                  {
@@ -3162,7 +3162,7 @@
                  },
                  {
                      "name":  "TestOfTeamwork",
-                     "color":  "Green",
+                     "color":  "Red",
                      "port":  "1.3.0.0"
                  },
                  {
@@ -3182,7 +3182,7 @@
                  },
                  {
                      "name":  "The H.I.V.E",
-                     "color":  "Green",
+                     "color":  "Red",
                      "port":  "1.3.0.0"
                  },
                  {
@@ -3322,12 +3322,12 @@
                  },
                  {
                      "name":  "Uumuu Hack",
-                     "color":  "Green",
+                     "color":  "Red",
                      "port":  "1.3.0.0"
                  },
                  {
                      "name":  "Uumuu Plus",
-                     "color":  "Green",
+                     "color":  "Red",
                      "port":  "1.3.0.0"
                  },
                  {
@@ -3352,7 +3352,7 @@
                  },
                  {
                      "name":  "VengeflyBombardier",
-                     "color":  "Green",
+                     "color":  "Red",
                      "port":  "1.3.0.0"
                  },
                  {
@@ -3393,21 +3393,6 @@
                  {
                      "name":  "WeaverCore",
                      "color":  "Red",
-                     "port":  "1.2.0.0"
-                 },
-                 {
-                     "name":  "WeaverCore",
-                     "color":  "Red",
-                     "port":  "1.2.1.0"
-                 },
-                 {
-                     "name":  "WeaverCore",
-                     "color":  "Red",
-                     "port":  "1.2.2.0"
-                 },
-                 {
-                     "name":  "WeaverCore",
-                     "color":  "Green",
                      "port":  "1.3.0.0"
                  },
                  {
