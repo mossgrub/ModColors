@@ -2916,6 +2916,11 @@
                      "port":  "1.3.0.0"
                  },
                  {
+                     "name":  "ShadeLord",
+                     "color":  "Green",
+                     "port":  "1.3.0.0"
+                 },
+                 {
                      "name":  "Shade Retreat Macro",
                      "color":  "Green",
                      "port":  "1.3.0.0"
