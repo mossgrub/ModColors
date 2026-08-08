@@ -1,2 +1,2 @@
 # ModColors
-Helper method for applying colors to the mod list.
+Helper method to apply functionality colors to the mod list.
